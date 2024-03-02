@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "281399238332",
+    "project_id": "messagingapp-88c03",
+    "storage_bucket": "messagingapp-88c03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281399238332:android:e3e648d38c8d3aa131bab9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281399238332-e3gd0o10p71872mn39sht8aq2o7d9tht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBhbUf7cAJlgM42OtRHeUh9xMZrRDZ2Ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281399238332-e3gd0o10p71872mn39sht8aq2o7d9tht.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "281399238332-memt39r5ovpdv77tkfmgukgjohsar63k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.messagingapp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281399238332:android:b641d3c91396d40b31bab9",
+        "android_client_info": {
+          "package_name": "com.example.messagingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281399238332-e3gd0o10p71872mn39sht8aq2o7d9tht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBhbUf7cAJlgM42OtRHeUh9xMZrRDZ2Ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281399238332-e3gd0o10p71872mn39sht8aq2o7d9tht.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "281399238332-memt39r5ovpdv77tkfmgukgjohsar63k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.messagingapp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
