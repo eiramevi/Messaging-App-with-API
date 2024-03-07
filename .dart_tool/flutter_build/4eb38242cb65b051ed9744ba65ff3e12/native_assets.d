@@ -1,0 +1,1 @@
+ D:\\Flutter\\messagingapp-backup\\.dart_tool\\flutter_build\\4eb38242cb65b051ed9744ba65ff3e12\\native_assets.yaml: 

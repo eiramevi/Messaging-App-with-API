@@ -1,0 +1,16 @@
+2024/02/22-08:42:03.844 1c04 Creating DB C:\Users\ASUS\AppData\Local\Temp\flutter_tools.f59a8c2\flutter_tools_chrome_device.f3d5ffaa\Default\IndexedDB\http_localhost_61867.indexeddb.leveldb since it was missing.
+2024/02/22-08:42:03.849 1c04 Reusing MANIFEST C:\Users\ASUS\AppData\Local\Temp\flutter_tools.f59a8c2\flutter_tools_chrome_device.f3d5ffaa\Default\IndexedDB\http_localhost_61867.indexeddb.leveldb/MANIFEST-000001
+2024/02/22-08:42:03.864 2878 Level-0 table #5: started
+2024/02/22-08:42:03.865 2878 Level-0 table #5: 1282 bytes OK
+2024/02/22-08:42:03.866 2878 Delete type=0 #3
+2024/02/22-08:42:03.867 2404 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/02/22-08:42:40.735 1c04 Level-0 table #7: started
+2024/02/22-08:42:40.736 1c04 Level-0 table #7: 1886 bytes OK
+2024/02/22-08:42:40.738 1c04 Delete type=0 #4
+2024/02/22-08:42:40.738 1c04 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/02/22-08:43:50.375 3bbc Compacting 1@1 + 1@2 files
+2024/02/22-08:43:50.379 3bbc Generated table #8@1: 39 keys, 1291 bytes
+2024/02/22-08:43:50.379 3bbc Compacted 1@1 + 1@2 files => 1291 bytes
+2024/02/22-08:43:50.380 3bbc compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/22-08:43:50.380 3bbc Delete type=2 #5
+2024/02/22-08:43:50.381 3bbc Delete type=2 #7
